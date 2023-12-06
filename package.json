@@ -40,7 +40,7 @@
         "react-dom": "^18.2.0",
         "serve-static": "^1.15.0",
         "typescript": "^5.1.6",
-        "vite": "^4.4.7",
+        "vite": "^4.4.12",
         "web-vitals": "^3.3.2"
     },
     "scripts": {
